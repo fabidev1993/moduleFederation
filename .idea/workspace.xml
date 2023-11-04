@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd2852f9-b8c5-4fd0-ad36-1c85f068c092" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/header-app/src/Fereshteh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home-app/src/Reza.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/header-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/header-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/header-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/header-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/header-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/home-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/home-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/home-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/home-app/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/home-app" />
+  </component>
+  <component name="ProjectId" id="2XZ7q4fm4ek6OQ3YQ9bz2CZrLn1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/header-app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\MF\header-app\src" />
+      <recent name="C:\projects\MF\home-app\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\MF\header-app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd2852f9-b8c5-4fd0-ad36-1c85f068c092" name="Default Changelist" comment="" />
+      <created>1698824939710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698824939710</updated>
+      <workItem from="1698824941498" duration="7240000" />
+      <workItem from="1698915518536" duration="305000" />
+      <workItem from="1698916116106" duration="2669000" />
+      <workItem from="1699089635167" duration="1702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1698915962231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1698915962231" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1698825849014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1698825849014" />
+  </component>
+</project>
